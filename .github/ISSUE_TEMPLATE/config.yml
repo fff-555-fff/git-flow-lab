@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Bug Report
+    about: File a bug report
+    url: https://github.com/fff-555-fff/git-flow-lab/issues/new?template=newBugReport.md
